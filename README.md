@@ -1,5 +1,7 @@
 # Linux Network
 
+> Project work report is available in the file [report.md](./src/report.md)
+
 Linux networks configuration on virtual machines.
 
 The russian version of the task can be found in the repository.
